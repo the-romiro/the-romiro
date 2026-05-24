@@ -1,17 +1,17 @@
 # Antonio Albuquerque Loiola (Romiro)
 
-## Software Engineer | Full-Stack Developer
+## Full Stack Developer & Data Engineer
 
-Passionate software engineer from Brazil with expertise in modern web technologies, specializing in React, TypeScript, and Node.js ecosystems. Currently focused on building scalable applications and expanding knowledge in software architecture.
+Full Stack Developer and Data Engineer with 10+ years in software development. Specializing in React/TypeScript frontends, Node.js/Python backends, and data engineering pipelines (ETL/ELT, Data Lakehouse, Apache Airflow). Currently building scalable applications and data infrastructure at Grendene S/A, Brazil.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on private projects involving full-stack web development
-- 🌱 Expertise in software engineering and system architecture
-- 💬 Ask me about **React, TypeScript, JavaScript, Python, Node.js, and modern web development**
-- 📫 **romiro@hotmail.com.br**
+- 🔭 Working at **Grendene S/A** — full-stack development and data engineering at scale
+- 🌱 10+ years in software development — 5+ years full-stack, strong data engineering background
+- 💬 Ask me about **React, TypeScript, Node.js, Python, data pipelines, and software architecture**
+- 📫 **contato@romiro.dev || romiro@hotmail.com.br**
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/antonio-albuquerque-loiola)
 
 ---
@@ -21,6 +21,7 @@ Passionate software engineer from Brazil with expertise in modern web technologi
 ### Frontend Development
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
@@ -61,6 +62,7 @@ Passionate software engineer from Brazil with expertise in modern web technologi
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![Axum](https://img.shields.io/badge/axum-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 
 **API Architecture:**
 
@@ -72,6 +74,7 @@ Passionate software engineer from Brazil with expertise in modern web technologi
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![Valkey](https://img.shields.io/badge/valkey-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
@@ -88,6 +91,31 @@ Passionate software engineer from Brazil with expertise in modern web technologi
 **Authentication:**
 
 ![Better Auth](https://img.shields.io/badge/Better%20Auth-000000?style=flat&logo=auth0&logoColor=white)
+
+### Data Engineering
+
+**Orchestration & Transformation:**
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+
+**Processing:**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
+
+**Storage & Architecture:**
+
+![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=flat&logo=apacheparquet&logoColor=black)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-3D9BE9?style=flat&logoColor=white)
+
+### BI & Analytics
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009848?style=flat&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ### Data Science & Analytics
 
@@ -111,6 +139,8 @@ Passionate software engineer from Brazil with expertise in modern web technologi
 **Web Servers:**
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white)
 
 **Version Control & CI/CD:**
 
@@ -137,6 +167,7 @@ Passionate software engineer from Brazil with expertise in modern web technologi
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=flat&logo=dotnet&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 ### Development Tools
