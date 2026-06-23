@@ -1,6 +1,6 @@
 # Antonio Albuquerque Loiola (Romiro)
 
-## Software Engineer & Data Engineer
+## Software & Data Engineer
 
 Software Engineer and Data Engineer with 10+ years of experience. I work at **Grendene S/A** — one of Brazil's largest footwear makers — end-to-end: shipping React + NestJS web apps, designing data pipelines that process millions of records a day, and architecting a cloud-agnostic Data Lakehouse with Stage → Bronze → Silver → Gold layers, data contracts, and automated quality gates.
 
