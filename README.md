@@ -13,7 +13,6 @@ I'm a Software Engineer and Data Engineer at Grendene S/A, one of Brazil's large
 - Cut processing time by up to 80% by tuning queries on PostgreSQL, SQL Server and DuckDB.
 - Moved pipelines that handle millions of records a day to incremental loads, so each run processes only new data.
 - Delivered GAM, the tooling department's activity management system, from the back end to the screens.
-- Mentor the team's data analysts on software and data practices.
 
 ## Featured projects
 
@@ -28,6 +27,13 @@ I'm a Software Engineer and Data Engineer at Grendene S/A, one of Brazil's large
 | ALU Alarm Simulator | Teaching app that shows how processor logic works through a simulated alarm system, made as class material for Faculdade Anhanguera Sobral. | Python, Flask | [Repo](https://github.com/the-romiro/aula-anhanguera-ula-alarme) |
 
 The full list is on [romiro.dev](https://romiro.dev/#projects).
+
+## Soft skills
+
+- Mentoring and technical leadership: I mentor the team's data analysts and share good software and data practices across Grendene.
+- Technical communication: I write documentation, keep Scrum and Kanban teams aligned and turn business needs into technical requirements.
+- Versatility: I work on every layer of a product, from the screens to the back end and the data, as each project needs.
+- Business sense and people management: I have a Business Administration degree and a People Management postgrad, and I use KPIs and metrics to support business decisions.
 
 ## Technical stack
 
