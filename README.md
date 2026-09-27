@@ -4,8 +4,6 @@
 
 I'm a Software Engineer and Data Engineer at Grendene S/A, one of Brazil's largest footwear makers. I joined the company in 2010 and have spent the last 6+ years, since 2019, in software and data. I build the web apps teams use every day and the data pipelines behind them, which process millions of records a day. I also work on the architecture of a cloud-agnostic Data Lakehouse (Stage → Bronze → Silver → Gold) with data contracts and automated quality checks.
 
-Ask me about React and TypeScript, Node.js and NestJS, Python and FastAPI, .NET, data pipelines, or software architecture.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-romiro.dev-000000?style=flat&logo=react&logoColor=white)](https://romiro.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-albuquerque-loiola/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contato@romiro.dev)
