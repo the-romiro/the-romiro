@@ -127,11 +127,3 @@ The full list is on [romiro.dev](https://romiro.dev/#projects).
 ![GitHub Streak](https://streak-stats.demolab.com/?user=the-romiro&theme=dracula&hide_border=false)
 
 </div>
-
-## Developer inspiration
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
