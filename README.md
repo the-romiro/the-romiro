@@ -2,47 +2,36 @@
 
 ## Software & Data Engineer
 
-Software Engineer and Data Engineer at **Grendene S/A**, one of Brazil's largest footwear makers. I joined the company in 2010 and have spent the last 6+ years in software and data, working end to end: I build the web apps teams use every day, the data pipelines that process millions of records a day, and a cloud-agnostic Data Lakehouse (Stage → Bronze → Silver → Gold) with data contracts and automated quality checks.
+I'm a Software Engineer and Data Engineer at Grendene S/A, one of Brazil's largest footwear makers. I joined the company in 2010 and have spent the last 6+ years, since 2019, in software and data. I build the web apps teams use every day and the data pipelines behind them, which process millions of records a day. I also work on the architecture of a cloud-agnostic Data Lakehouse (Stage → Bronze → Silver → Gold) with data contracts and automated quality checks.
 
----
+Ask me about React and TypeScript, Node.js and NestJS, Python and FastAPI, .NET, data pipelines, or software architecture.
 
-## 🚀 About Me
-
-- 🔭 Working at **Grendene S/A** since 2010, in software and data since 2019
-- 🌱 6+ years in software and data, from the database to the screens people use
-- 💬 Ask me about **React/TypeScript, Node.js/NestJS, Python/FastAPI, .NET, data pipelines, and software architecture**
-- 🌐 **Portfolio:** [romiro.dev](https://romiro.dev)
-- 💼 **LinkedIn:** [antonio-albuquerque-loiola](https://www.linkedin.com/in/antonio-albuquerque-loiola/)
-- 📫 **Email:** contato@romiro.dev
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-romiro.dev-000000?style=flat&logo=react&logoColor=white)](https://romiro.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-albuquerque-loiola/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contato@romiro.dev)
 
 ## Highlights
 
-- **Up to 80% less processing time** by tuning queries on PostgreSQL, SQL Server and DuckDB
-- **Millions of records a day** through data pipelines that now load only new data on each run
-- **Delivered GAM end to end**, the tooling department's activity management system, from back end to UI
-- **Mentors the team's data analysts** and spreads good software and data practices at Grendene
+- Cut processing time by up to 80% by tuning queries on PostgreSQL, SQL Server and DuckDB.
+- Moved pipelines that handle millions of records a day to incremental loads, so each run processes only new data.
+- Delivered GAM, the tooling department's activity management system, from the back end to the screens.
+- Mentor the team's data analysts on software and data practices.
 
----
-
-## Featured Projects
+## Featured projects
 
 | Project | What it is | Stack | Link |
 |---------|-----------|-------|------|
-| **Lakehouse Local** | Company data platform, similar to Databricks, running on local servers with no cloud dependency. Batch and real-time ingestion, automated quality checks, quarantine for bad records and full lineage. | Spark, Iceberg, Trino, dbt, Airflow, Kafka, Debezium | Internal |
-| **G Home Lab** | Five-server cluster running Grendene's factory systems: 30+ internal apps, 10 factory-floor dashboards, the data pipeline and a private AI assistant, with self-healing checks on every server. | Docker Swarm, Traefik, PostgreSQL, Airflow, Ollama | Internal |
-| **GAM** | Web system that organizes production activities in Grendene's tooling department, with role-based access. | React, NestJS, Prisma, PostgreSQL | Internal |
-| **Grendene AI Tools** | Extensions for the company's private AI assistant: reading live web pages, spreadsheets and data files, answering from a private knowledge base. | Python, Open WebUI, Ollama, RAG, pgvector | Internal |
-| **Sophia Laços** | Online store for a handmade hair bow atelier: catalog, cart, WhatsApp or online checkout and an admin panel. | React, tRPC, Hono, Drizzle, Cloudflare Workers, Stripe | [sophia-lacos.com.br](https://sophia-lacos.com.br) |
-| **MICROTECH** | Website for an Apple repair shop, with an iPhone repair quote tool that hands off to WhatsApp. | React, TypeScript, Cloudflare Workers | [lojamicrotech.com.br](https://lojamicrotech.com.br) |
-| **ALU Alarm Simulator** | Interactive teaching app on processor logic, made as class material for Faculdade Anhanguera Sobral. | Python, Flask | [Repo](https://github.com/the-romiro/aula-anhanguera-ula-alarme) |
+| Lakehouse Local | A company data platform similar to Databricks that runs on local servers, with no cloud provider. It ingests data in scheduled loads and as changes happen, runs quality checks automatically, quarantines bad records and traces every number back to its source. | Spark, Iceberg, Trino, dbt, Airflow, Kafka, Debezium | Internal |
+| G Home Lab | The five-server cluster that runs Grendene's factory systems: more than 30 internal apps (10 of them factory-floor dashboards), the data pipeline and a private AI assistant. An automated check on each server repairs network, storage and container failures. | Docker Swarm, Traefik, PostgreSQL, Airflow, Ollama | Internal |
+| GAM | Web system for production activities in Grendene's tooling department. Each user sees what their role allows. | React, NestJS, Prisma, PostgreSQL | Internal |
+| Grendene AI Tools | Extensions for the company's private AI assistant that let it read live web pages, spreadsheets and data files. The assistant answers from a private knowledge base. | Python, Open WebUI, Ollama, RAG, pgvector | Internal |
+| Sophia Laços | Online store for a handmade hair bow atelier. Customers order through WhatsApp or pay online, and an admin panel handles products, photos and orders. | React, tRPC, Hono, Drizzle, Cloudflare Workers, Stripe | [sophia-lacos.com.br](https://sophia-lacos.com.br) |
+| MICROTECH | Website for an Apple repair shop. Its iPhone repair quote tool gives an estimated price and passes the conversation to WhatsApp. | React, TypeScript, Cloudflare Workers | [lojamicrotech.com.br](https://lojamicrotech.com.br) |
+| ALU Alarm Simulator | Teaching app that shows how processor logic works through a simulated alarm system, made as class material for Faculdade Anhanguera Sobral. | Python, Flask | [Repo](https://github.com/the-romiro/aula-anhanguera-ula-alarme) |
 
-All projects: [romiro.dev](https://romiro.dev/#projects)
+The full list is on [romiro.dev](https://romiro.dev/#projects).
 
----
-
-## 💻 Technical Stack
+## Technical stack
 
 ### Frontend
 
@@ -69,7 +58,7 @@ All projects: [romiro.dev](https://romiro.dev/#projects)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 
-### Data Engineering
+### Data engineering
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
@@ -95,7 +84,7 @@ All projects: [romiro.dev](https://romiro.dev/#projects)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 
-### DevOps & Infrastructure
+### DevOps & infrastructure
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Docker Swarm](https://img.shields.io/badge/docker%20swarm-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
@@ -118,7 +107,7 @@ All projects: [romiro.dev](https://romiro.dev/#projects)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
 
-### BI & Analytics
+### BI & analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logoColor=black)
 ![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009848?style=flat&logo=qlik&logoColor=white)
@@ -131,9 +120,7 @@ All projects: [romiro.dev](https://romiro.dev/#projects)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
----
-
-## 📊 GitHub Activity
+## GitHub activity
 
 <div align="center">
 
@@ -141,28 +128,10 @@ All projects: [romiro.dev](https://romiro.dev/#projects)
 
 </div>
 
----
-
-## 💭 Developer Inspiration
+## Developer inspiration
 
 <div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-romiro.dev-000000?style=flat&logo=react&logoColor=white)](https://romiro.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-albuquerque-loiola/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contato@romiro.dev)
-
----
-
-<div align="center">
-
-_"Building the future, one commit at a time."_
 
 </div>
